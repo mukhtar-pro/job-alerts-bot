@@ -1,0 +1,20 @@
+# Git
+.git
+.gitignore
+
+# Virtual environment
+venv/
+ENV/
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Other
+.env.example
+README.md
+debug_*.py 
